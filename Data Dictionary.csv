@@ -1,0 +1,104 @@
+zip,ZIP
+cases,cumulative confirmed cases of COVID-19 in zipcode
+city,city (if applicable)
+stabb,state abbreviation
+place,jurisdiction reporting COVID-19 data
+deaths,cumulative deaths from COVID-19 in zipcode
+zip_cd,ZIP_CD
+patient_count,PATIENT_COUNT
+population,POPULATION
+percentage,PERCENTAGE
+zipcode,Zip Code
+zcta_name,ZCTA name
+land_area_sq_mile,land area per square mile
+pop2019_5yr,zipcode population (2019 5-year ACS)
+pct_male2019,male population/total population
+housing_units2019,housing units
+pop_65_over_20195yr,
+pop_under18_20195yr,
+pop_under5_20195yr,
+pop85_over2019,
+median_age2019_5yr,
+white_pop2019,
+asian_pop2019,
+black_pop2019,
+hisp_pop2019,
+pct_disability,Percent of people with disability
+pct_selfcare_dif,Percent incapbale of self-care
+pct_indep_living_dif,Percent with indepdenent livnig difficulty
+disability_pop20195yr,Total populaiton with disability (among non-institutionalized)
+total_noninst_pop20195yr,Total non-institutionalized population
+id,Census zcta id
+households,number of households
+pct_hhinc_less10,"Share of housholds with income less than $10,000 per year in 2019"
+pct_hhinc_10_14,"Share of housholds with income between $10,000-$14,999 per year in 2019"
+pct_hhinc_15_24,"Share of housholds with income between $15-$24,999 per year in 2019"
+pct_hhinc_24_34,"Share of housholds with income between $24-$34,999 per year in 2019"
+pct_hhinc_34_49,"Share of housholds with income between $35-$49,999 per year in 2019"
+pct_hhinc_50_74,"Share of housholds with income between $50-$74,999 per year in 2019"
+pct_hhinc_75_99,"Share of housholds with income between $75-$99,999 per year in 2019"
+pct_hhinc_100_149,Share of housholds with income between $100K-149K per year in 2019
+pct_hhinc_150_199,Share of housholds with income between $150K-199K per year in 2019
+pct_hhinc_200_plus,Share of housholds with income between $200K or more per year in 2019
+median_hhinc,Median household income
+pop20_64_20195yr,population 20-64 years old
+lfpr20_64_20195yr,Labor force rate
+unemploy_rate20_64_20195yr,Unemployment rate
+pop25_over20195yr,Population 25 year and older
+pop_less9th20195yr,Population  <9th grade education
+pop9_1220195yr,Population 9th-less than HS educaiton
+pophs20195yr,Population with High School educaiton but no higher
+pop_some20195yr,Population with some college but no degree
+pop_assoc20195yr,Population with associates degree
+pop_ba20195yr,Population with bachelor's degree
+pop_grad20195yr,Population with post-bachelor's or graduate degree
+pop_ba_higher20195yr,Population with at least bachelor's degree
+pct_white_pop2019,Zipcode Hispanic population share
+pct_asian_pop2019,Zipcode Hispanic population share
+pct_black_pop2019,Zipcode Black population share
+pct_hisp_pop2019,Zipcode Hispanic population share
+pct_pop25_over20195yr,
+pct_pop_less9th20195yr,
+pct_pop9_1220195yr,
+pct_pophs20195yr,
+pct_pop_some20195yr,
+pct_pop_assoc20195yr,
+pct_pop_ba20195yr,
+pct_pop_grad20195yr,
+pct_pop_ba_higher20195yr,Zipcode population 25 or older with bachelor's or higher education
+density2019,Zipcode population density
+inc_under25,Zipcode share of households with income less than $25K
+inc_150plus,Zipcode share of households with income of $150K or higher
+pct_65_plus,Zipcode population share 65 or older
+pct_85_plus,Zipcode population share 85 or older
+mortality_rate,Deaths/case
+inst_pop2019,institutionalized population
+pct_inst_pop2019,Zipcode share of population living in institutional housing
+pop_per_unit,pop/housing unit
+Crowding,pop/housing unit
+zcta,
+zip_share_cty_geocorr,(first) zip_share_cty_geocorr
+ctyfip,(first) ctyfip
+countyname,(first) countyname
+pop10_zip,(first) pop10
+afact,GeoCorr 2018 share of zipcode's population in county (each zip assigned to county based on max value of this variable)
+state,State
+stfip,StateFIPS
+cty_deaths_Feb9,county deaths from USA Facts through Feb 9 2021
+cty_cases_Feb9,county cases from USA Facts through Feb 9 2021
+cty_pop,county population
+pc_cases,"Zipcode level cases per 100,000 residents"
+pc_deaths,"Zipcode level deaths per 100,000 residents"
+case_rate,Cases/person
+death_rate,Deaths/person
+zip_pop_share,Zip share of population
+share_children,Zipcode children share of population
+pc_deaths_cty,"County level deaths per 100,000 residents"
+pc_cases_cty,"County level cases per 100,000 residents"
+expected_deaths,County deaths X Zip share of county population
+expected_cases,County cases X Zip share of county population
+expected_deaths_pc,County deaths X Zip share of county population per 100K
+expected_cases_pc,County cases X Zip share of county population per 100K
+expected_deaths_geo_pc,County deaths X Zip share of county population (from GeoCorr) per 100K
+expected_cases_geo_pc,County cases X Zip share of county population (from GeoCorr) per 100K
+max_death_rate,Max deaths possible in zipcode given county info
